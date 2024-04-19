@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FFD700"  # Gold yellow for buttons and active elements.
+backgroundColor = "#3a4244"  # White background for the main content area.
+secondaryBackgroundColor =  "#000000"  # Black for the sidebar. "#000000"
+textColor = "#FFD700"  # Black text color for good contrast on the white background.
+font = "sans serif"
